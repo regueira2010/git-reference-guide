@@ -1,21 +1,19 @@
-# Dependencias
-node_modules/
-
-# Logs
-logs
-*.log
-npm-debug.log*
-
-# Archivos del sistema
-.DS_Store
+# Archivos de sistema (Basura que crea Windows o Mac)
 Thumbs.db
+.DS_Store
 
-# Variables de entorno
+# Archivos de configuración sensible (¡MUY IMPORTANTE!)
 .env
+*.log
+secrets.txt
 
-# Carpeta de build
-dist/
-build/
+# Carpetas de dependencias (Si usas Node.js o Python)
+node_modules/
+__pycache__/
+venv/
+.venv/
 
-# VS Code
+# Archivos de editores de código
 .vscode/
+.idea/
+*.sublime-project
