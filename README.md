@@ -58,4 +58,9 @@ GitHub se utiliza principalmente para:
 
 ---
 
+---
+### 📚 ¡Sigue Aprendiendo!
+¿Buscas más material? Revisa nuestra **[Guía de Recursos Adicionales](./RECURSOS.md)** con enlaces, cursos y herramientas recomendadas.
+---
+
 ## 📁 Estructura básica de un repositorio
